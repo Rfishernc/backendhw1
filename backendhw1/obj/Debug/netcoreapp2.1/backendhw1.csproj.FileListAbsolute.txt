@@ -1,0 +1,11 @@
+C:\Users\Rich\workspace\csharp\backendhw1\bin\Debug\netcoreapp2.1\backendhw1.deps.json
+C:\Users\Rich\workspace\csharp\backendhw1\bin\Debug\netcoreapp2.1\backendhw1.runtimeconfig.json
+C:\Users\Rich\workspace\csharp\backendhw1\bin\Debug\netcoreapp2.1\backendhw1.runtimeconfig.dev.json
+C:\Users\Rich\workspace\csharp\backendhw1\bin\Debug\netcoreapp2.1\backendhw1.dll
+C:\Users\Rich\workspace\csharp\backendhw1\bin\Debug\netcoreapp2.1\backendhw1.pdb
+C:\Users\Rich\workspace\csharp\backendhw1\obj\Debug\netcoreapp2.1\backendhw1.csprojAssemblyReference.cache
+C:\Users\Rich\workspace\csharp\backendhw1\obj\Debug\netcoreapp2.1\backendhw1.csproj.CoreCompileInputs.cache
+C:\Users\Rich\workspace\csharp\backendhw1\obj\Debug\netcoreapp2.1\backendhw1.AssemblyInfoInputs.cache
+C:\Users\Rich\workspace\csharp\backendhw1\obj\Debug\netcoreapp2.1\backendhw1.AssemblyInfo.cs
+C:\Users\Rich\workspace\csharp\backendhw1\obj\Debug\netcoreapp2.1\backendhw1.dll
+C:\Users\Rich\workspace\csharp\backendhw1\obj\Debug\netcoreapp2.1\backendhw1.pdb
